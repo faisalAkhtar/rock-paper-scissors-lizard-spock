@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rock-paper-scissor-lizard-spock/static/css/main.2cb4bf58.chunk.css",
+    "main.js": "/rock-paper-scissor-lizard-spock/static/js/main.a532a961.chunk.js",
+    "main.js.map": "/rock-paper-scissor-lizard-spock/static/js/main.a532a961.chunk.js.map",
+    "runtime-main.js": "/rock-paper-scissor-lizard-spock/static/js/runtime-main.a26c6b4b.js",
+    "runtime-main.js.map": "/rock-paper-scissor-lizard-spock/static/js/runtime-main.a26c6b4b.js.map",
+    "static/js/2.d1f1c3d5.chunk.js": "/rock-paper-scissor-lizard-spock/static/js/2.d1f1c3d5.chunk.js",
+    "static/js/2.d1f1c3d5.chunk.js.map": "/rock-paper-scissor-lizard-spock/static/js/2.d1f1c3d5.chunk.js.map",
+    "index.html": "/rock-paper-scissor-lizard-spock/index.html",
+    "precache-manifest.f998eed1e1cc1529251e93b7c458fa5c.js": "/rock-paper-scissor-lizard-spock/precache-manifest.f998eed1e1cc1529251e93b7c458fa5c.js",
+    "service-worker.js": "/rock-paper-scissor-lizard-spock/service-worker.js",
+    "static/css/main.2cb4bf58.chunk.css.map": "/rock-paper-scissor-lizard-spock/static/css/main.2cb4bf58.chunk.css.map",
+    "static/js/2.d1f1c3d5.chunk.js.LICENSE.txt": "/rock-paper-scissor-lizard-spock/static/js/2.d1f1c3d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a26c6b4b.js",
+    "static/js/2.d1f1c3d5.chunk.js",
+    "static/css/main.2cb4bf58.chunk.css",
+    "static/js/main.a532a961.chunk.js"
+  ]
+}
