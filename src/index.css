@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #f1f1f1;
+    background-color: #10151b;
+}
+
+#root {
+    width: 95%;
+    max-width: 768px;
+    margin: auto;
+}
+
+.hands {
+    width: 100%;
+    display: grid;
+    grid-gap: 0px;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.hands .option {
+    cursor: pointer;
+    display: inline-block;
+}
+
+.hands .option svg {
+    max-height: 20vw;
+    height: 150px;
+    width: 100%;
+    fill: #40454b;
+    transition-duration: 0.4s;
+    filter: drop-shadow(0 5px 2px black);
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.hands .option:hover svg, .playground svg {
+    fill: #777777;
+    filter: drop-shadow(0 5px 2px black);
+}
+
+.hands .option p {
+    text-align: center;
+    margin-block-end: 0;
+}
+
+.playground {
+    width: 100%;
+    display: grid;
+    grid-gap: 0px;
+    grid-template-rows: 60px 350px;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+}
+
+.playground h3 {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-underline-position: under;
+}
+
+.playElements {
+    display: flex;
+    align-items: center;
+    background-color: #10151b;
+}
+
+.myChoice, .computersChoice {
+    justify-content: flex-end;
+}
+
+.neutralGround {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 125%;
+    text-align: center;
+    justify-content: center;
+}
+
+.computersChoice {
+    transform: scaleX(-1);
+}
+
+.winner svg {
+    transition-duration: 0.5s;
+    fill: #ffffff;
+}
+
+.noSelect {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
