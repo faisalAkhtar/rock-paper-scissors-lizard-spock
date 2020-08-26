@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rock-paper-scissor-lizard-spock/precache-manifest.f998eed1e1cc1529251e93b7c458fa5c.js"
+  "/rock-paper-scissor-lizard-spock/precache-manifest.8747a3958d779d100e1c3ca8787c7106.js"
 );
 
 self.addEventListener('message', (event) => {

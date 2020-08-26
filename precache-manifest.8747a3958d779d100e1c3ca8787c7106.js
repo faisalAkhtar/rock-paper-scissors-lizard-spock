@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48764f02a34adc56a2525fc89964a5b2",
+    "revision": "75ae362c5ed1139a55241d0be486e396",
     "url": "/rock-paper-scissor-lizard-spock/index.html"
   },
   {
-    "revision": "242b1af75abe3263c7e8",
+    "revision": "759c61a1345de2b675b4",
     "url": "/rock-paper-scissor-lizard-spock/static/css/main.2cb4bf58.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rock-paper-scissor-lizard-spock/static/js/2.d1f1c3d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "242b1af75abe3263c7e8",
-    "url": "/rock-paper-scissor-lizard-spock/static/js/main.a532a961.chunk.js"
+    "revision": "759c61a1345de2b675b4",
+    "url": "/rock-paper-scissor-lizard-spock/static/js/main.bad0f14f.chunk.js"
   },
   {
     "revision": "1cf54311154b06c81955",
