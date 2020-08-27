@@ -1,6 +1,6 @@
 {
-  "homepage": "https://faisalakhtar.github.io/rock-paper-scissor-lizard-spock/",
-  "name": "rock-paper-scissor-lizard-spock",
+  "homepage": "https://faisalakhtar.github.io/rock-paper-scissors-lizard-spock/",
+  "name": "rock-paper-scissors-lizard-spock",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faisalAkhtar/rock-paper-scissor-lizard-spock.git"
+    "url": "git+https://github.com/faisalAkhtar/rock-paper-scissors-lizard-spock.git"
   },
   "author": "Faisal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faisalAkhtar/rock-paper-scissor-lizard-spock/issues"
+    "url": "https://github.com/faisalAkhtar/rock-paper-scissors-lizard-spock/issues"
   },
   "scripts": {
     "predeploy": "npm run build",
