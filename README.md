@@ -7,17 +7,17 @@ Rock Paper Scissors Lizard Spock
 <p align="center">It's simple. Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors.</p>
 
 <p align="center">
-  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/faisalAkhtar/rock-paper-scissor-lizard-spock" />
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/faisalAkhtar/rock-paper-scissors-lizard-spock" />
   &nbsp;
-  <a href="LICENSE"><img alt="license" src="https://img.shields.io/github/license/faisalAkhtar/rock-paper-scissor-lizard-spock" /></a>
+  <a href="LICENSE"><img alt="license" src="https://img.shields.io/github/license/faisalAkhtar/rock-paper-scissors-lizard-spock" /></a>
 </p>
 
 <p align="center">
-  <a href="https://faisalakhtar.github.io/rock-paper-scissor-lizard-spock/">Play Game</a>
+  <a href="https://faisalakhtar.github.io/rock-paper-scissors-lizard-spock/">Play Game</a>
   ·
-  <a href="https://github.com/faisalAkhtar/rock-paper-scissor-lizard-spock/issues/new/choose">Report Bug</a>
+  <a href="https://github.com/faisalAkhtar/rock-paper-scissors-lizard-spock/issues/new/choose">Report Bug</a>
   ·
-  <a href="https://github.com/faisalAkhtar/rock-paper-scissor-lizard-spock/issues/new/choose">Request Feature</a>
+  <a href="https://github.com/faisalAkhtar/rock-paper-scissors-lizard-spock/issues/new/choose">Request Feature</a>
 </p>
 
 <h2 align="center">Built with :heart: and :sparkles:ReactJS:sparkles:</h2>
