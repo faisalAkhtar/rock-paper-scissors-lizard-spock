@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rock-paper-scissors-lizard-spock/static/css/main.2cb4bf58.chunk.css",
-    "main.js": "/rock-paper-scissors-lizard-spock/static/js/main.f522d660.chunk.js",
-    "main.js.map": "/rock-paper-scissors-lizard-spock/static/js/main.f522d660.chunk.js.map",
+    "main.css": "/rock-paper-scissors-lizard-spock/static/css/main.5cf5b9dc.chunk.css",
+    "main.js": "/rock-paper-scissors-lizard-spock/static/js/main.af7897f1.chunk.js",
+    "main.js.map": "/rock-paper-scissors-lizard-spock/static/js/main.af7897f1.chunk.js.map",
     "runtime-main.js": "/rock-paper-scissors-lizard-spock/static/js/runtime-main.6f3629eb.js",
     "runtime-main.js.map": "/rock-paper-scissors-lizard-spock/static/js/runtime-main.6f3629eb.js.map",
-    "static/js/2.4be9518c.chunk.js": "/rock-paper-scissors-lizard-spock/static/js/2.4be9518c.chunk.js",
-    "static/js/2.4be9518c.chunk.js.map": "/rock-paper-scissors-lizard-spock/static/js/2.4be9518c.chunk.js.map",
+    "static/js/2.0bc28936.chunk.js": "/rock-paper-scissors-lizard-spock/static/js/2.0bc28936.chunk.js",
+    "static/js/2.0bc28936.chunk.js.map": "/rock-paper-scissors-lizard-spock/static/js/2.0bc28936.chunk.js.map",
     "index.html": "/rock-paper-scissors-lizard-spock/index.html",
-    "precache-manifest.8e832067a6f6290607a4c865b6b392d7.js": "/rock-paper-scissors-lizard-spock/precache-manifest.8e832067a6f6290607a4c865b6b392d7.js",
+    "precache-manifest.b9fe09dc7f952b182ddcb4a04034a5d3.js": "/rock-paper-scissors-lizard-spock/precache-manifest.b9fe09dc7f952b182ddcb4a04034a5d3.js",
     "service-worker.js": "/rock-paper-scissors-lizard-spock/service-worker.js",
-    "static/css/main.2cb4bf58.chunk.css.map": "/rock-paper-scissors-lizard-spock/static/css/main.2cb4bf58.chunk.css.map",
-    "static/js/2.4be9518c.chunk.js.LICENSE.txt": "/rock-paper-scissors-lizard-spock/static/js/2.4be9518c.chunk.js.LICENSE.txt"
+    "static/css/main.5cf5b9dc.chunk.css.map": "/rock-paper-scissors-lizard-spock/static/css/main.5cf5b9dc.chunk.css.map",
+    "static/js/2.0bc28936.chunk.js.LICENSE.txt": "/rock-paper-scissors-lizard-spock/static/js/2.0bc28936.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6f3629eb.js",
-    "static/js/2.4be9518c.chunk.js",
-    "static/css/main.2cb4bf58.chunk.css",
-    "static/js/main.f522d660.chunk.js"
+    "static/js/2.0bc28936.chunk.js",
+    "static/css/main.5cf5b9dc.chunk.css",
+    "static/js/main.af7897f1.chunk.js"
   ]
 }
